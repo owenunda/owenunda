@@ -14,6 +14,16 @@
 
 - ⚡ Fun fact: I love cats🐱  
   
+<br/> 
+
+## Some projects
+
+- [loopstudios landing page][manticora]
+[manticora]: https://manticora-loopstudios-landing-page.netlify.app/
+- [Rick and morty wiki][manticora]
+[manticora]: https://manticora-rickandmorty-wiki.netlify.app
+- [Ecommerce Academlo][manticora]
+[manticora]: https://manticora-ecommerce.netlify.app/
 
 <br/>  
 
