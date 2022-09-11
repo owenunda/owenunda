@@ -18,12 +18,11 @@
 
 ## Some projects
 
-- [loopstudios landing page][manticora]
-[manticora]: https://manticora-loopstudios-landing-page.netlify.app/
-- [Rick and morty wiki][manticora]
-[manticora]: https://manticora-rickandmorty-wiki.netlify.app
-- [Ecommerce Academlo][manticora]
-[manticora]: https://manticora-ecommerce.netlify.app/
+- <a href="https://manticora-loopstudios-landing-page.netlify.app/" target="_blank"> Rick and morty wiki </a>
+
+- <a href="https://manticora-rickandmorty-wiki.netlify.app" target="_blank"> Loopstudios landing page </a>
+
+- <a href="https://manticora-ecommerce.netlify.app/" target="_blank"> Ecommerce Academlo </a>
 
 <br/>  
 
