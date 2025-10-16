@@ -24,10 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,arch,discordjs,express,git,github,js,linux,nestjs,nodejs,postgres,prisma,ts&perline=8)](https://skillicons.dev)
 <br><br>
 
-
-
-<br><br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
