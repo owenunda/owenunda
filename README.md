@@ -24,6 +24,8 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,arch,discordjs,express,git,github,js,linux,nestjs,nodejs,postgres,prisma,ts&perline=8)](https://skillicons.dev)
 <br><br>
 
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -42,3 +44,14 @@
 
 
 
+<br>
+
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/oweenunda/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="oweenunda" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/oweenunda_/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="oweenunda_" height="30" width="40" 
+</p>
