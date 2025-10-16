@@ -14,7 +14,20 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
+- 🏢 I am currently working as a **Junior Software Engineer** at [Aurobits Solutions](https://www.aurobitsolutions.com/)
+- 🎓 Studies for Software Engineering at [Intitucion Universitaria TdeA](https://educacion.tdea.edu.co/)
+- 🏡Lives in **Medellin-Antioquia**
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,arch,discordjs,express,git,github,js,linux,nestjs,nodejs,postgres,prisma,ts&perline=8)](https://skillicons.dev)
 <br><br>
+
+
+
+<br><br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
