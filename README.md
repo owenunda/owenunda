@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<br><br/>
+<br><br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -24,5 +24,12 @@
 </a>
 </p>
 
+<br><br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+
+
+
