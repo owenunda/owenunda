@@ -14,7 +14,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-- 🏢 I am currently working as a **Software Engineer** at [Aurobits Solutions](https://www.aurobitsolutions.com/)
 - 🎓 Studies for Software Engineering at [Intitucion Universitaria TdeA](https://educacion.tdea.edu.co/)
 - 🏡Lives in **Medellin-Antioquia**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
