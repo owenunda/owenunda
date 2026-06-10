@@ -17,6 +17,7 @@
 - 🎓 Studies for Software Engineering at [Intitucion Universitaria TdeA](https://educacion.tdea.edu.co/)
 - 🏡Lives in **Medellin-Antioquia**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- [Portafolio](https://portafolio.oween.software)
 
 
 ## Skills
